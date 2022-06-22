@@ -1,0 +1,1 @@
+This is a python script to scrape data analyst jobs from timesjobs.com. The jobs are filtered based on the publish date.
