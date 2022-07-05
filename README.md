@@ -24,7 +24,7 @@ Various python web scrapping scripts from scraping job postings to scraping cryp
 
     Scrapes cryptocurrency data (name, price, market cap) from  'https://www.coingecko.com/' and stores it in a .csv file
     
-crypto_scrapper_v2.ipynb
+## crypto_scrapper_v2.ipynb
 
     1. Scrapes cryptocurrency data (name, price, market cap) from  'https://www.coingecko.com/' and stores it in a .csv file
     2. A sqlite3 database is created and all the data is stored inside the database in a table "crypto_data_table"
